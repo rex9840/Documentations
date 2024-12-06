@@ -1,2 +1,2 @@
 # Dcoumentations
-This repo contains all the learning documenation created by the author : Rupesh Neapal
+This repo contains all the learning documentation created by the author : Rupesh Neapal
